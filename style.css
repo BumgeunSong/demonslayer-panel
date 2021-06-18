@@ -41,7 +41,7 @@ body {
 
 .panel > * {
     margin: 0;
-    border: 1px solid red;
+
     flex: 1 0 0;
     transition: transform 0.5s;
 
